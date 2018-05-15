@@ -1,0 +1,5 @@
+s = input("문자열: ")
+print("문자열 길이: ",len(s))
+print("첫번째 문자: ",s[0])
+print("두번쨰 문자: ",s[1])
+print("마지막 문자: ",s[len(s)-1])
